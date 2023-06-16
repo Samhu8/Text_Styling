@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+    background-color: black;
+    
+}
+.random {
+    color: aqua;
+}
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rebeccapurple;
+}
+h3 {
+    text-align: right;
+    color: navy;
+    background-color: lightblue;
+    text-decoration: underline;
+}
